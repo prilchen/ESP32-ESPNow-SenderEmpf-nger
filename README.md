@@ -19,7 +19,8 @@ Dieses Beispiel zeigt eine Broadcast Lösung, die mit weiteren ESP32 ergänzt we
 5. Da dies eine Broadcast Lösung zeigt, können weiteren ESP32 ergänzt werden, ohne dem Sender die MAC Adressen mitzuteilen.
 
 ## 📸 Vorschau
-*Optional: Füge Bilder oder Diagramme hinzu*
+<img width="1538" height="801" alt="image" src="https://github.com/user-attachments/assets/90e4f89b-b57c-4a2e-8d37-25ebc0ad141d" />
+
 
 ## 🧠 Hintergrund
 ESP-NOW ist ein schnelles, verbindungsloses Kommunikationsprotokoll von Espressif. Ideal für IoT-Projekte mit geringem Stromverbrauch.
