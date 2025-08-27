@@ -9,7 +9,9 @@ Dieses Beispiel zeigt eine Broadcast Lösung, die mit weiteren ESP32 ergänzt we
 - Grüne LED
 - Taster
 - 2x Widerstände 220 Ohm
-- Arduino IDE 2.3.x mit ESP32 Board Support ab Version 3
+
+## Library 
+- Verwendet wird die Arduino IDE in Version 2.3.x zusammen mit dem ESP32 Board Support Package ab Version 3, das über den Boardverwalter installiert wird.
 
 ## 📂 Dateien
 - `espnow_sender.ino`: Sendet Nachrichten über ESP-NOW
