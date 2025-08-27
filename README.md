@@ -29,4 +29,4 @@ Dieses Beispiel zeigt eine Broadcast Lösung, die mit weiteren ESP32 ergänzt we
 
 
 ## Hintergrund
-ESP-NOW ist ein schnelles, verbindungsloses Kommunikationsprotokoll von Espressif. Ideal für IoT-Projekte mit geringem Stromverbrauch.
+ESP-NOW ist ein schnelles, verbindungsloses Kommunikationsprotokoll von Espressif. Ideal für IoT-Projekte ohne Netzwerk.
