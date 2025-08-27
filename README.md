@@ -4,7 +4,11 @@ Dieses Projekt zeigt, wie zwei ESP32-Boards über ESP-NOW miteinander kommunizie
 Dieses Beispiel zeigt eine Broadcast Lösung, die mit weiteren ESP32 ergänzt werden kann ohne dem Sender die MAC Adressen mitzuteilen.
 
 ## 🔧 Komponenten
-- 2x ESP32-C6 
+- 2x ESP32-C6
+- Rote LED
+- Grüne LED
+- Taster
+- 2x Widerstände 220 Ohm
 - Arduino IDE 2.3.x mit ESP32 Board Support ab Version 3
 
 ## 📂 Dateien
