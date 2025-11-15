@@ -25,7 +25,7 @@ Dieses Beispiel zeigt eine Broadcast Lösung, die mit weiteren ESP32 ergänzt we
 5. Da dies eine Broadcast Lösung zeigt, können weiteren ESP32 ergänzt werden, ohne dem Sender die MAC Adressen mitzuteilen.
 
 ## Vorschau
-<img width="1538" height="801" alt="image" src="https://github.com/user-attachments/assets/90e4f89b-b57c-4a2e-8d37-25ebc0ad141d" />
+![Beitragsbild ESP-NOW](https://prilchen.de/wp-content/uploads/2025/09/espnowmittext-1024x532.png)
 
 
 ## Hintergrund
